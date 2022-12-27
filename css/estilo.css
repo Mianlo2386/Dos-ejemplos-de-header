@@ -1,4 +1,5 @@
-* {
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Solway&display=swap');* {
     margin: 0;
     padding: 0;
 }
@@ -10,6 +11,8 @@ header {
     justify-content: space-around;
     align-items: center;
     background-color: rgb(248, 249, 250);
+    font-family: 'Lobster', cursive;
+    font-family: 'Solway', serif;
 }
 header a {
     text-decoration: none;
